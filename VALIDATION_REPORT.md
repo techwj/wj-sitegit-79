@@ -1,0 +1,88 @@
+# Validation Report - travel-souvenirs-bought
+
+Generated: 2026-06-02T19:22:26.543753
+
+## Passed
+
+- ✓ Required file exists: privacy.html
+- ✓ Required file exists: cookie-policy.html
+- ✓ Required file exists: terms.html
+- ✓ Required file exists: ad-policy.html
+- ✓ Required file exists: contact.html
+- ✓ Required file exists: about.html
+- ✓ Required file exists: dmca.html
+- ✓ Required file exists: accessibility.html
+- ✓ Suggested file exists: data-request.html
+- ✓ Suggested file exists: do-not-sell.html
+- ✓ Suggested file exists: third-party-disclosure.html
+- ✓ Suggested file exists: disclaimer.html
+- ✓ Suggested file exists: external-link-policy.html
+- ✓ Suggested file exists: content-policy.html
+- ✓ Suggested file exists: security-policy.html
+- ✓ Suggested file exists: children-privacy.html
+- ✓ Suggested file exists: refund-policy.html
+- ✓ Suggested file exists: faq.html
+- ✓ Suggested file exists: press-kit.html
+- ✓ Suggested file exists: feedback.html
+- ✓ Suggested file exists: code-of-conduct.html
+- ✓ Article word count OK: The Ultimate Guide to Beginner Travel Souvenirs Bought
+- ✓ Article word count OK: Beginner Travel Souvenirs Bought: Everything You Need to Know
+- ✓ Article word count OK: Understanding Beginner Travel Souvenirs Bought
+- ✓ Article word count OK: Beginner Travel Souvenirs Bought Tips and Best Practices
+- ✓ Article word count OK: The History of Beginner Travel Souvenirs Bought
+- ✓ Article word count OK: Beginner Travel Souvenirs Bought in 2026: Current Trends
+- ✓ Article word count OK: Future of Beginner Travel Souvenirs Bought
+- ✓ Article word count OK: Common Mistakes in Beginner Travel Souvenirs Bought
+- ✓ Article word count OK: Beginner Travel Souvenirs Bought for Beginners
+- ✓ Article word count OK: Advanced Beginner Travel Souvenirs Bought Techniques
+- ✓ Article word count OK: The Ultimate Guide to Advanced Travel Souvenirs Bought
+- ✓ Article word count OK: Advanced Travel Souvenirs Bought: Everything You Need to Know
+- ✓ Article word count OK: Understanding Advanced Travel Souvenirs Bought
+- ✓ Article word count OK: Advanced Travel Souvenirs Bought Tips and Best Practices
+- ✓ Article word count OK: The History of Advanced Travel Souvenirs Bought
+- ✓ Article word count OK: Advanced Travel Souvenirs Bought in 2026: Current Trends
+- ✓ Article word count OK: Future of Advanced Travel Souvenirs Bought
+- ✓ Article word count OK: Common Mistakes in Advanced Travel Souvenirs Bought
+- ✓ Article word count OK: Advanced Travel Souvenirs Bought for Beginners
+- ✓ Article word count OK: Advanced Advanced Travel Souvenirs Bought Techniques
+- ✓ Article word count OK: The Ultimate Guide to Travel Souvenirs Bought Tips
+- ✓ Article word count OK: Travel Souvenirs Bought Tips: Everything You Need to Know
+- ✓ Article word count OK: Understanding Travel Souvenirs Bought Tips
+- ✓ Article word count OK: Travel Souvenirs Bought Tips Tips and Best Practices
+- ✓ Article word count OK: The History of Travel Souvenirs Bought Tips
+- ✓ Article word count OK: Travel Souvenirs Bought Tips in 2026: Current Trends
+- ✓ Article word count OK: Future of Travel Souvenirs Bought Tips
+- ✓ Article word count OK: Common Mistakes in Travel Souvenirs Bought Tips
+- ✓ Article word count OK: Travel Souvenirs Bought Tips for Beginners
+- ✓ Article word count OK: Advanced Travel Souvenirs Bought Tips Techniques
+- ✓ Article word count OK: The Ultimate Guide to Travel Souvenirs Bought History
+- ✓ Article word count OK: Travel Souvenirs Bought History: Everything You Need to Know
+- ✓ Article word count OK: Understanding Travel Souvenirs Bought History
+- ✓ Article word count OK: Travel Souvenirs Bought History Tips and Best Practices
+- ✓ Article word count OK: The History of Travel Souvenirs Bought History
+- ✓ Article word count OK: Travel Souvenirs Bought History in 2026: Current Trends
+- ✓ Article word count OK: Future of Travel Souvenirs Bought History
+- ✓ Article word count OK: Common Mistakes in Travel Souvenirs Bought History
+- ✓ Article word count OK: Travel Souvenirs Bought History for Beginners
+- ✓ Article word count OK: Advanced Travel Souvenirs Bought History Techniques
+- ✓ Article word count OK: The Ultimate Guide to Trending Travel Souvenirs Bought
+- ✓ Article word count OK: Trending Travel Souvenirs Bought: Everything You Need to Know
+- ✓ Article word count OK: Understanding Trending Travel Souvenirs Bought
+- ✓ Article word count OK: Trending Travel Souvenirs Bought Tips and Best Practices
+- ✓ Article word count OK: The History of Trending Travel Souvenirs Bought
+- ✓ Article word count OK: Trending Travel Souvenirs Bought in 2026: Current Trends
+- ✓ Article word count OK: Future of Trending Travel Souvenirs Bought
+- ✓ Article word count OK: Common Mistakes in Trending Travel Souvenirs Bought
+- ✓ Article word count OK: Trending Travel Souvenirs Bought for Beginners
+- ✓ Article word count OK: Advanced Trending Travel Souvenirs Bought Techniques
+- ✓ Article word count OK: The Ultimate Guide to Travel Souvenirs Bought Tutorials
+- ✓ Article word count OK: Travel Souvenirs Bought Tutorials: Everything You Need to Know
+- ✓ Article word count OK: Understanding Travel Souvenirs Bought Tutorials
+- ✓ Article word count OK: Travel Souvenirs Bought Tutorials Tips and Best Practices
+- ✓ Article word count OK: The History of Travel Souvenirs Bought Tutorials
+- ✓ Article word count OK: Travel Souvenirs Bought Tutorials in 2026: Current Trends
+- ✓ Article word count OK: Future of Travel Souvenirs Bought Tutorials
+- ✓ Article word count OK: Common Mistakes in Travel Souvenirs Bought Tutorials
+- ✓ Article word count OK: Travel Souvenirs Bought Tutorials for Beginners
+- ✓ Article word count OK: Advanced Travel Souvenirs Bought Tutorials Techniques
+- ✓ Ad configuration validated
